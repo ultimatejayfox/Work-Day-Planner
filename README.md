@@ -20,6 +20,6 @@ Mock up/screenshot
 
 
 
-git hub url: https://github.com/ultimatejayfox/Work-Day-Planner/blob/main/README.md
+git hub url:https://github.com/ultimatejayfox/Work-Day-Planner
 
 
