@@ -13,6 +13,8 @@ Each time block has an input field and save button where users can store their s
 Mock up/screenshot
 
 
+Mock up/screenshot
+[Web capture_2-2-2022_223427_127 0 0 1](https://user-images.githubusercontent.com/96092354/152277197-76100df1-3385-409b-b856-4d46d05e7552.jpeg)
 
 
 
@@ -21,8 +23,6 @@ Mock up/screenshot
 
 
 
-<<<<<<< Updated upstream
 git hub url: 
-=======
-git hub url: 
->>>>>>> Stashed changes
+
+
